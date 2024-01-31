@@ -1,6 +1,7 @@
 Screenshots of output:
 
 Command: mvn clean install -P job1
+
 ![image](https://github.com/chetanshi-tripathi/BatchDemo/assets/89652194/d6009d6c-d18c-40d1-84d5-f0a571786bfd)
 
 
